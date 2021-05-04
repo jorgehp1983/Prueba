@@ -11,7 +11,8 @@ package calculadora2;
  */
 public class Calculadora2 {
 
-   public static int suma(int a, int b){
+// prueba version 2
+    public static int suma(int a, int b){
        return a+b;
    }
    public static int resta (int a, int b){
